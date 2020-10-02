@@ -28,7 +28,9 @@ The purpose of this project is to target potential customers for bank term depos
 
 * 41,188 customer records by 20 attributes.
 
-### 
+### Project Flow
+
+
 
 
 ### 

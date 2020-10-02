@@ -30,8 +30,7 @@ The purpose of this project is to target potential customers for bank term depos
 
 ### Project Flow
 
-![projectflow](https://user-images.githubusercontent.com/49653689/94936967-fa8ebd80-049c-11eb-818e-3e6934d39ae5.png)
-
+![projectflow](https://user-images.githubusercontent.com/49653689/94937269-5e18eb00-049d-11eb-94ba-b38c28438fab.png)
 
 
 

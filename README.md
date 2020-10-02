@@ -4,7 +4,7 @@
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to target potential customers for bank term deposit subscription.
 
 ### Methods Used

@@ -19,7 +19,9 @@ The purpose of this project is to target potential customers for bank term depos
 
 ### Data Source
 
-The dataset was obtained from the University of California’s Machine Learning Repository. The particular dataset we chose contained data related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The dataset is relevant with 17 campaigns from May 2008 to November 2010 and it demonstrates the details of each contract the bank offered to the clients.
+The dataset was obtained from the University of California’s Machine Learning Repository. The particular dataset for this project is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The dataset is relevant with 17 campaigns from May 2008 to November 2010 and it demonstrates the details of each contract the bank offered to the clients.
+
+41,188 customer records with 20 variables
 
 ### 
 

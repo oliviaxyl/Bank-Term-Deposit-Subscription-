@@ -31,18 +31,6 @@ The purpose of this project is to target potential customers for bank term depos
 ### Project Flow
 
 ![projectflow](https://user-images.githubusercontent.com/49653689/94937269-5e18eb00-049d-11eb-94ba-b38c28438fab.png)
-
-### Scoring Card
-
-![chart](https://user-images.githubusercontent.com/49653689/94939383-0def5800-04a0-11eb-99dd-9d05eac247d8.png)
-
-Table 5 contains the results of KS test for total dataset. The cutoff score is 551 to 600.
-The true positive is 60.60%, but the false positive is 12.90% if using this cutoff score,
-which means 60.60% customers whose scores are higher than551 will truly have
-deposit, while at the same time 12.90% of total no-deposit customers will be filtered
-into the group by mistake. In general, the cut-off works will as the false positive counts
-is relatively lower, and the total difference, 47.70%, is still an attractive difference
-when we want to filter the customers.
  
 ### Kolmogorov-Smirnov Test
 

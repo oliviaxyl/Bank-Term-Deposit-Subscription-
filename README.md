@@ -12,6 +12,7 @@ The purpose of this project is to target potential customers for bank term depos
 * Feature Engineering 
 * Crosstab and Dummy Coding 
 * Predictive Modeling
+* Scoring and KS test
 
 ### Technologies
 * SAS

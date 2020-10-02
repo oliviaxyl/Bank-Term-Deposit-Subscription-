@@ -32,9 +32,8 @@ The purpose of this project is to target potential customers for bank term depos
 ![projectflow](https://user-images.githubusercontent.com/49653689/94937269-5e18eb00-049d-11eb-94ba-b38c28438fab.png)
 
 ### Scoring
-
-
+![chart](https://user-images.githubusercontent.com/49653689/94939383-0def5800-04a0-11eb-99dd-9d05eac247d8.png)
 
 ### Kolmogorov-Smirnov Test
-
+![kstest](https://user-images.githubusercontent.com/49653689/94939389-1051b200-04a0-11eb-8931-7ce3f9ae7b08.png)
 

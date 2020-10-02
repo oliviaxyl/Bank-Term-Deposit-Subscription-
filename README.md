@@ -46,4 +46,5 @@ when we want to filter the customers.
 
 ### Kolmogorov-Smirnov Test
 
+![kstest](https://user-images.githubusercontent.com/49653689/94941881-89063d80-04a3-11eb-877f-f88fc50e3508.png)
 

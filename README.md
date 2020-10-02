@@ -36,3 +36,6 @@ The purpose of this project is to target potential customers for bank term depos
 
 ![kstest](https://user-images.githubusercontent.com/49653689/94947429-a212ec80-04ab-11eb-9b29-b86dc7bb1083.png)
 
+## Results
+
+

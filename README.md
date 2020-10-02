@@ -9,9 +9,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Methods Used
 * Exploratory Data Analysis
-* Data Processing/Cleaning
 * Predictive Modeling
-* Writeup/Reporting
 
 ### Technologies
 * SAS

@@ -43,7 +43,7 @@ deposit, while at the same time 12.90% of total no-deposit customers will be fil
 into the group by mistake. In general, the cut-off works will as the false positive counts
 is relatively lower, and the total difference, 47.70%, is still an attractive difference
 when we want to filter the customers.
-
+ 
 ### Kolmogorov-Smirnov Test
 
  

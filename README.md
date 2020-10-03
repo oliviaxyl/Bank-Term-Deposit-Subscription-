@@ -33,9 +33,6 @@ The purpose of this project is to target potential customers for bank term depos
 
 ### Scoring Card
 
-![monitorreport](https://user-images.githubusercontent.com/49653689/94980158-1f168400-04f5-11eb-9dfc-505065d88507.png)
-
-
 ![chart](https://user-images.githubusercontent.com/49653689/94979707-546da280-04f2-11eb-8ae2-f648775ae305.png)
 
 ### Kolmogorov-Smirnov Test
@@ -50,4 +47,5 @@ Select a reasonable cutoff level that separates the customers most efficiently -
 
 Monitoring report step can be implemented to check the performance of prediction model. The differences between the predicted score distribution from our model and the actual score distribution is one of indicators to monitor the performance of the model. Since the changes in bank policies, social and economic environments might affect the performances of the model, therefore, monthly evaluation of current model through the table provided below is recommended.
 
+![monitorreport](https://user-images.githubusercontent.com/49653689/94980158-1f168400-04f5-11eb-9dfc-505065d88507.png)
 

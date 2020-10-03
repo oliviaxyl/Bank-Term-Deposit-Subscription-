@@ -31,7 +31,7 @@ The purpose of this project is to target potential customers for bank term depos
 
 ![projectflow](https://user-images.githubusercontent.com/49653689/94937269-5e18eb00-049d-11eb-94ba-b38c28438fab.png)
 
-## Scoring Card
+### Scoring Card
 
 ![chart](https://user-images.githubusercontent.com/49653689/94979707-546da280-04f2-11eb-8ae2-f648775ae305.png)
  
@@ -39,7 +39,7 @@ The purpose of this project is to target potential customers for bank term depos
 
 ![kstest](https://user-images.githubusercontent.com/49653689/94947429-a212ec80-04ab-11eb-9b29-b86dc7bb1083.png)
 
-## Results
+### Results
 
 Select a reasonable cutoff level that separates the customers most efficiently - Score 550. More specifically, 60.6% of the term deposit subscribers scored above 550, while 12.9% of the non-subscribers scored above 550. With a cutoff of 550, 18.21% of the total population will be selected into target customer group as potential subscriber of the term deposit. Among selected customers, 37.22% of the campaigned customers are expected to accept the offer. Without using our model, only 11.27% of the campaigned customers would subscribe the term deposit.
 

@@ -45,6 +45,6 @@ Select a reasonable cutoff level that separates the customers most efficiently -
 
 ## Future Work
 
-Monitoring report step can be implemented to check whether our prediction model is working. The differences between the predicted score distribution from our model and the actual score distribution is one of indicators to monitor the performance of the model. Since the changes in bank policies, social and economic environments might affect the performances of the model, therefore, we recommend monthly evaluation of current model through the table provided below.
+Monitoring report step can be implemented to check the performance of prediction model. The differences between the predicted score distribution from our model and the actual score distribution is one of indicators to monitor the performance of the model. Since the changes in bank policies, social and economic environments might affect the performances of the model, therefore, monthly evaluation of current model through the table provided below is recommended.
 
 
